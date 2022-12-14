@@ -15,6 +15,9 @@ void main(List<String> args) {
     {'year': '2003', 'population': 6},
     {'year': '2004', 'population': 8},
     {'year': '2005', 'population': 10},
+    {'year': '2006', 'population': 12},
+    {'year': '2007', 'population': 14},
+    {'year': '2008', 'population': 16},
   ]);
 
   var chart = context['chart'];
